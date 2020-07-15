@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![MyNetdisk's Github stats](https://github-readme-stats.vercel.app/api?username=MyNetdisk&show_icons=true&title_color=42b983)
+
 <!--
 **MyNetdisk/MyNetdisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
