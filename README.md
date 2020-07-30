@@ -13,7 +13,7 @@
   <img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white">
   <img alt="css" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3">
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
-  <img alt="Typescript" src="https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=TypeScript">
+  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript">
   <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vue.js">
   <img alt="react.js" src="https://img.shields.io/badge/React.js-272C34?style=flat-square&logo=react">
   <br/>
