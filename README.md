@@ -41,7 +41,7 @@
 
 ### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MyNetdisk&show_icons=true&include_all_commits=true&theme=cobalt" alt="MyNetdisk's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MyNetdisk&show_icons=true&include_all_commits=true&theme=radical" alt="MyNetdisk's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyNetdisk&layout=compact&theme=cobalt&hide=html,jupyter%20notebook" />
