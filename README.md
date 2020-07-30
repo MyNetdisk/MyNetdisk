@@ -14,7 +14,6 @@
   <img alt="css" src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3">
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
   <img alt="Typescript" src="https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=TypeScript">
-  <br/>
   <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vue.js">
   <img alt="react.js" src="https://img.shields.io/badge/React.js-272C34?style=flat-square&logo=react">
   <br/>
@@ -41,10 +40,12 @@
 </p>
 
 ### Stats
-![MyNetdisk's Github stats](https://github-readme-stats.vercel.app/api?username=MyNetdisk&show_icons=true&title_color=42b983)
-
-### Programming language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNetdisk)](https://github.com/MyNetdisk/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MyNetdisk&show_icons=true&include_all_commits=true&theme=cobalt" alt="MyNetdisk's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyNetdisk&layout=compact&theme=cobalt&hide=html,jupyter%20notebook" />
+</a>
 
 <!--
 **MyNetdisk/MyNetdisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
