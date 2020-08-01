@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :globe_with_meridians: 中文 · ~~English~~ (learning)
-- :link: [mynetdisk](https://mynetdisk.github.io/)
+- :link: [mynetdisk](https://mynetdisk.top/)
 
 <!--
 <p align="center">
