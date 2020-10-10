@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - :globe_with_meridians: 中文 · ~~English~~ (learning)
+- :link: [mynetdisk.top](https://mynetdisk.top)
 - :link: [blog.mynetdisk.top](https://blog.mynetdisk.top)
 
 <!--
