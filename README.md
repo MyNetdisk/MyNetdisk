@@ -3,6 +3,7 @@
 ### Hi there 👋
 
 - :globe_with_meridians: 中文 · ~~English~~ (learning)
+- :alarm_clock: 7:00 - 23:59 「[UTC+8](https://time.is/UTC+8)」
 - :link: [mynetdisk.top](https://mynetdisk.top)
 - :link: [blog.mynetdisk.top](https://blog.mynetdisk.top)
 
