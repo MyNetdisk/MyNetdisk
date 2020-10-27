@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" width="250px" src="https://img.mynetdisk.top/profile/ironman.gif" />
+<img align="right" width="250px" src="https://img.mynetdisk.top/profile/ironman.jpg" />
 
 - :globe_with_meridians: 中文 · ~~English~~ (learning)
 - :link: [mynetdisk.top](https://mynetdisk.top)
