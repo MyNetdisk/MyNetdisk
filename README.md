@@ -40,7 +40,7 @@
   -->
 </p>
 
-### Development environment👷
+### Development environment🛠️
 <p align="center">
   <img alt="vscode" src="https://img.shields.io/badge/VSCode-3860c4?style=flat-square&logo=visual-studio-code&logoColor=white">
 </p>
