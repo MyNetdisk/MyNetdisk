@@ -2,16 +2,15 @@
 
 ### Hi there 👋
 
-<p align="center">
-  <a href="mailto:myselfdisk@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://t.me/MyNetdisk" target="_blank"><img src="https://img.shields.io/badge/Telegram-262968.svg?&style=flat-square&logo=telegram&logoColor=white" alt="telegram"></a>
-</p>
-
-
 - :globe_with_meridians: 中文 · ~~English~~ (learning)
 - :alarm_clock: 7:00 - 23:59 「[UTC+8](https://time.is/UTC+8)」
 - :link: [mynetdisk.top](https://mynetdisk.top)
 - :link: [blog.mynetdisk.top](https://blog.mynetdisk.top)
+
+<p align="center">
+  <a href="mailto:myselfdisk@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://t.me/MyNetdisk" target="_blank"><img src="https://img.shields.io/badge/Telegram-262968.svg?&style=flat-square&logo=telegram&logoColor=white" alt="telegram"></a>
+</p>
 
 ### Conhecimentos / Knowledges🔥
 
