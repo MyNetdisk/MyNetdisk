@@ -47,7 +47,7 @@
 
 ### Spotify Playing 🎧
 <p align="center">
-  <a href="https://open.spotify.com/user/yelhine07swn596kj88qmqbz8" target="_blank"><img src="https://spotify.mynetdisk.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <a href="https://open.spotify.com/user/yelhine07swn596kj88qmqbz8" target="_blank"><img src="https://spotify.mynetdisk.vercel.app/api/spotify" alt="Spotify Now Playing" width="250"/></a>
 </p>
 
 <!-- 
