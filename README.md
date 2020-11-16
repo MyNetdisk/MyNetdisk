@@ -10,6 +10,7 @@
 <p align="center">
   <a href="mailto:myselfdisk@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://t.me/MyNetdisk" target="_blank"><img src="https://img.shields.io/badge/Telegram-262968.svg?&style=flat-square&logo=telegram&logoColor=white" alt="telegram"></a>
+  <a href="https://open.spotify.com/user/yelhine07swn596kj88qmqbz8" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ed760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 </p>
 
 ### Conhecimentos / Knowledges🔥
@@ -42,6 +43,11 @@
 ### Development environment🛠️
 <p align="center">
   <img alt="vscode" src="https://img.shields.io/badge/VSCode-3860c4?style=flat-square&logo=visual-studio-code&logoColor=white">
+</p>
+
+### Spotify Playing 🎧
+<p align="center">
+  <a href="https://open.spotify.com/user/yelhine07swn596kj88qmqbz8" target="_blank"><img src="https://spotify.mynetdisk.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
 <!-- 
