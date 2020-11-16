@@ -1,4 +1,4 @@
-<img align="right" width="300px" src="https://img.mynetdisk.top/profile/ironman.jpg" />
+<img align="right" width="280px" src="https://img.mynetdisk.top/profile/ironman.jpg" />
 
 ### Hi there 👋
 
