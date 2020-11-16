@@ -1,4 +1,4 @@
-<img align="right" width="250px" src="https://img.mynetdisk.top/profile/ironman.jpg" />
+<img align="right" width="350px" src="https://img.mynetdisk.top/profile/ironman.jpg" />
 
 ### Hi there 👋
 
@@ -46,7 +46,7 @@
 </p>
 
 ### Spotify Playing 🎧
-<p align="left">
+<p align="center">
   <a href="https://open.spotify.com/user/yelhine07swn596kj88qmqbz8" target="_blank"><img src="https://spotify.mynetdisk.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
