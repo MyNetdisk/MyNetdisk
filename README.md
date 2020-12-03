@@ -4,8 +4,10 @@
 
 - :globe_with_meridians: 中文 · ~~English~~ (learning)
 - :alarm_clock: 7:00 - 23:59 「[UTC+8](https://time.is/UTC+8)」
-- :link: [mynetdisk.top](https://mynetdisk.top)
-- :link: [blog.mynetdisk.top](https://blog.mynetdisk.top)
+- :link: [https://mynetdisk.top](https://mynetdisk.top)
+- :link: [https://blog.mynetdisk.top](https://blog.mynetdisk.top)
+- :link: [https://mynetdisk.github.io](https://mynetdisk.github.io)
+- :link: [https://mynetdisk.gitee.io](https://mynetdisk.gitee.io)
 
 <p align="center">
   <a href="mailto:myselfdisk@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
