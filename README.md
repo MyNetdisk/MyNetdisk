@@ -1,4 +1,4 @@
-<img align="right" width="290px" src="https://images.mynetdisk.vercel.app/profile/ironman.jpg" />
+<img align="right" width="250px" src="https://images.mynetdisk.vercel.app/profile/ironman.jpg" />
 
 ### Hi there 👋
 
