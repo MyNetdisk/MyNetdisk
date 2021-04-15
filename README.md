@@ -7,7 +7,7 @@
 - :link: [https://mynetdisk.github.io](https://mynetdisk.github.io)
 - :link: [https://mynetdisk.gitee.io](https://mynetdisk.gitee.io)
 - :link: [https://codepen.io/mynetdisk](https://codepen.io/mynetdisk)
-- :link: [https://leetcode-cn.com/u/mynetdisk/)
+- :link: [https://leetcode-cn.com/u/mynetdisk](https://leetcode-cn.com/u/mynetdisk)
 
 <p align="center">
   <a href="mailto:myselfdisk@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
