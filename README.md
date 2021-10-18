@@ -49,10 +49,10 @@
 </p>
  -->
  
-### Stats🤔
+<!-- ### Stats🤔
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MyNetdisk&show_icons=true&include_all_commits=true&theme=tokyonight" alt="MyNetdisk's github stats" />
-</a>
+</a> -->
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyNetdisk&layout=compact&theme=tokyonight&hide=html,jupyter%20notebook" />
 </a> -->
