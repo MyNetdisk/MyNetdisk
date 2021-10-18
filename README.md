@@ -1,5 +1,5 @@
 <img align="right" width="280px" src="https://images.mynetdisk.vercel.app/profile/ironman.jpg" />
-![banner](https://github.com/MyNetdisk/MyNetdisk/blob/master/banner.png)
+![](https://github.com/MyNetdisk/MyNetdisk/blob/master/banner.png)
 
 
 ### Hi there 👋
