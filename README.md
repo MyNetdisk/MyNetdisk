@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MyNetdisk)
 - :globe_with_meridians: 中文 · ~~English~~ (learning)
 - :alarm_clock: 7:00 - 23:59 「[UTC+8](https://time.is/UTC+8)」
-- :link: [https://mynetdisk.gitee.io](https://mynetdisk.gitee.io)
+- :link: [https://codesandbox.io/u/MyNetdisk](https://codesandbox.io/u/MyNetdisk)
 - :link: [https://codepen.io/mynetdisk](https://codepen.io/mynetdisk)
 - :link: [https://leetcode-cn.com/u/mynetdisk](https://leetcode-cn.com/u/mynetdisk)
 <!-- - :link: [https://mynetdisk.github.io](https://mynetdisk.github.io) -->
