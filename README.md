@@ -1,5 +1,4 @@
 ![](https://github.com/MyNetdisk/MyNetdisk/blob/master/banner.png)
-<!-- <img align="right" width="280px" src="https://images.mynetdisk.vercel.app/profile/ironman.jpg" /> -->
 ### Hi there 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MyNetdisk)
 - :globe_with_meridians: 中文 · ~~English~~ (learning)
@@ -7,51 +6,31 @@
 - :link: [https://codesandbox.io/u/MyNetdisk](https://codesandbox.io/u/MyNetdisk)
 - :link: [https://codepen.io/mynetdisk](https://codepen.io/mynetdisk)
 - :link: [https://leetcode-cn.com/u/mynetdisk](https://leetcode-cn.com/u/mynetdisk)
-<!-- - :link: [https://mynetdisk.github.io](https://mynetdisk.github.io) -->
 
 ### Conhecimentos / Knowledges🔥
 <p align="left">
   <img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white">
   <img alt="css" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3">
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
-  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript">
+  <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typeScript">
+  <img alt="dart" src="https://img.shields.io/badge/Dart-1572B6?style=flat-square&logo=dart&logoColor=white">
   <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vue.js">
   <img alt="react.js" src="https://img.shields.io/badge/React.js-272C34?style=flat-square&logo=react">
+  <img alt="flutter" src="https://img.shields.io/badge/Flutter-1572B6?style=flat-square&logo=flutter&logoColor=white">
   <br/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-333?style=flat-square&logo=Node.js">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-eee?style=flat-square&logo=mysql">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-999?style=flat-square&logo=MongoDB">
   <img alt="Redis" src="https://img.shields.io/badge/Redis-666?style=flat-square&logo=Redis">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-333?style=flat-square&logo=Docker">
-  <!--
-  <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white">
-  <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white">
-  <br/>
-  <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
-  <img alt="c" src="https://img.shields.io/badge/C-0b0b0b?style=flat-square&logo=c">
-  -->
 </p>
 
 ### Development environment🛠️
 <p align="left">
   <img alt="vscode" src="https://img.shields.io/badge/VSCode-3860c4?style=flat-square&logo=visual-studio-code&logoColor=white">
 </p>
-
-<!-- 
-### Spotify Playing 🎧
-<p align="center">
-  <a href="https://open.spotify.com/user/yelhine07swn596kj88qmqbz8" target="_blank"><img src="https://spotify.mynetdisk.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p>
- -->
- 
-<!-- ### Stats🤔
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MyNetdisk&show_icons=true&include_all_commits=true&theme=tokyonight" alt="MyNetdisk's github stats" />
-</a> -->
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyNetdisk&layout=compact&theme=tokyonight&hide=html,jupyter%20notebook" />
-</a> -->
 
 <!--
 **MyNetdisk/MyNetdisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
