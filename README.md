@@ -11,12 +11,13 @@
 <p align="left">
   <img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white">
   <img alt="css" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3">
-  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
-  <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typeScript">
-  <img alt="dart" src="https://img.shields.io/badge/Dart-1572B6?style=flat-square&logo=dart&logoColor=white">
   <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vue.js">
   <img alt="react.js" src="https://img.shields.io/badge/React.js-272C34?style=flat-square&logo=react">
   <img alt="flutter" src="https://img.shields.io/badge/Flutter-1572B6?style=flat-square&logo=flutter&logoColor=white">
+  <br/>
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
+  <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typeScript">
+  <img alt="dart" src="https://img.shields.io/badge/Dart-1572B6?style=flat-square&logo=dart&logoColor=white">
   <br/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-333?style=flat-square&logo=Node.js">
   <img alt="Python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
