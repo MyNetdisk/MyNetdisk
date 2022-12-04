@@ -22,8 +22,6 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-eee?style=flat-square&logo=mysql">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-999?style=flat-square&logo=MongoDB">
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-666?style=flat-square&logo=Redis">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-333?style=flat-square&logo=Docker">
 </p>
 
