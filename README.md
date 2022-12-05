@@ -16,7 +16,7 @@
   <img alt="flutter" src="https://img.shields.io/badge/Flutter-1572B6?style=flat-square&logo=flutter&logoColor=white">
   <br/>
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
-  <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typeScript">
+  <img alt="typescript" src="https://img.shields.io/badge/TypeScript-333?style=flat-square&logo=typeScript">
   <img alt="dart" src="https://img.shields.io/badge/Dart-1572B6?style=flat-square&logo=dart&logoColor=white">
   <br/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-333?style=flat-square&logo=Node.js">
