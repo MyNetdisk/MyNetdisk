@@ -7,8 +7,8 @@
 - :link: [https://codepen.io/mynetdisk](https://codepen.io/mynetdisk)
 - :link: [https://leetcode-cn.com/u/mynetdisk](https://leetcode-cn.com/u/mynetdisk)
 
-### Conhecimentos / Knowledges🔥
-<p align="left">
+<!-- ### Conhecimentos / Knowledges🔥 -->
+<!-- <p align="left">
   <img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white">
   <img alt="css" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3">
   <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vue.js">
@@ -24,12 +24,12 @@
   <img alt="C++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-eee?style=flat-square&logo=mysql">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-333?style=flat-square&logo=Docker">
-</p>
+</p> -->
 
-### Development environment🛠️
-<p align="left">
+<!-- ### Development environment🛠️ -->
+<!-- <p align="left">
   <img alt="vscode" src="https://img.shields.io/badge/VSCode-3860c4?style=flat-square&logo=visual-studio-code&logoColor=white">
-</p>
+</p> -->
 
 <!--
 **MyNetdisk/MyNetdisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
