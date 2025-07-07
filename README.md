@@ -4,7 +4,7 @@
 
 <img align="right" width="250px" src="https://github.com/MyNetdisk/MyNetdisk/blob/master/electric.jpg" />
 
-- 🌐 中文 · ~~English~~ (learning) · ~~日语~~ (勉強する) 
+- 🌐 中文 · ~~English~~ (learning) · ~~日本語~~ (勉強する) 
 - ⏰ 7:00 - 23:59 · [UTC+8](https://time.is/UTC+8)
 - 🔗 [LeetCode](https://leetcode.cn/u/mynetdisk-h/) | [CodeSandbox](https://codesandbox.io/u/MyNetdisk) | [CodePen](https://codepen.io/mynetdisk)
 
