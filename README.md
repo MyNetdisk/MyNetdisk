@@ -28,5 +28,4 @@
 
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=MyNetdisk&show_icons=true&theme=tokyonight" alt="MyNetdisk's GitHub stats" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyNetdisk&layout=donut&langs_count=5&hide_title=true&hide=html,css" alt="Top Langs" /> -->
 </p>
