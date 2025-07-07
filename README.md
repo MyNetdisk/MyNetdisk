@@ -6,7 +6,7 @@
 
 - 🌐 中文 · ~~日本語~~ (勉強する) · ~~English~~ (learning)
 - ⏰ 7:00 - 23:59 · [UTC+8](https://time.is/UTC+8)
-- 🔗 [LeetCode](https://leetcode.cn/u/mynetdisk-h/) | [CodeSandbox](https://codesandbox.io/u/MyNetdisk) | [CodePen](https://codepen.io/mynetdisk)
+- 🔗 <a href="https://leetcode.cn/u/mynetdisk-h/" target="_blank">LeetCode</a> | <a href="https://codesandbox.io/u/MyNetdisk" target="_blank">CodeSandbox</a> | <a href="https://codepen.io/mynetdisk" target="_blank">CodePen</a>
 
 ### 🛠 Tech Stack
 
