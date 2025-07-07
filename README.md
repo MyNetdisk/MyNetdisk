@@ -17,7 +17,6 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React.js-61dafb?style=flat-square&logo=react&logoColor=black">
-  <img alt="React Native" src="https://img.shields.io/badge/React.js-61dafb?style=flat-square&logo=react&logoColor=black">
   <br/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
