@@ -1,4 +1,5 @@
 ![](https://github.com/MyNetdisk/MyNetdisk/blob/master/banner.png)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ### Hi there 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MyNetdisk)
 - :globe_with_meridians: 中文 · ~~English~~ (learning)
