@@ -2,10 +2,12 @@
 
 ### 👋 Welcome to MyNetdisk's GitHub
 
+<img align="right" width="250px" src="https://i.pinimg.com/736x/c0/95/5b/c0955bdb5c99e82f40496be66a04aeed.jpg" />
+
 - 🌐 中文 · ~~English~~ (learning)  · ~~日语~~ (learning) 
 - ⏰ 7:00 - 23:59 · [UTC+8](https://time.is/UTC+8)
-- 🌱 Always learning, always exploring.
 - 🔗 [CodeSandbox](https://codesandbox.io/u/MyNetdisk) ｜ [CodePen](https://codepen.io/mynetdisk)
+
 
 ### 🛠 Tech Stack
 
