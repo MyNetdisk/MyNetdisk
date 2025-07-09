@@ -1,8 +1,7 @@
 <!-- ![bannar](https://github.com/MyNetdisk/MyNetdisk/blob/master/banner.png) -->
+<img align="right" width="250px" src="https://github.com/MyNetdisk/MyNetdisk/blob/master/electric.jpg" />
 
 ### 👋 Welcome to MyNetdisk's GitHub
-
-<img align="right" width="250px" src="https://github.com/MyNetdisk/MyNetdisk/blob/master/electric.jpg" />
 
 - 🌐 中文 · ~~日本語~~ (勉強する) · ~~English~~ (learning)
 - ⏰ 7:00 - 23:59 · [UTC+8](https://time.is/UTC+8)
