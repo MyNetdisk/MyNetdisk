@@ -1,5 +1,5 @@
 <!-- ![bannar](https://github.com/MyNetdisk/MyNetdisk/blob/master/banner.png) -->
-<img align="right" width="250px" src="https://github.com/MyNetdisk/MyNetdisk/blob/master/electric.jpg" />
+<img align="right" width="30%" src="https://github.com/MyNetdisk/MyNetdisk/blob/master/electric.jpg" />
 
 ### 👋 Welcome to MyNetdisk's GitHub
 
